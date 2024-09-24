@@ -1,4 +1,4 @@
-import { baseURL, refetchProbability, port } from './config.ts'
+import { baseURL, refetchProbability, port } from 'yourConfig.tsFilePath'
 
 interface CachedResponse {
 	body: string
